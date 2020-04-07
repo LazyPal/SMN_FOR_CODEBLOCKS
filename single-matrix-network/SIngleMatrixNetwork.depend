@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1585853806 source:c:\users\liuwe\desktop\bcr\github_code\single-matrix-network\network.cpp
+	"stdafx.h"
+	"Network.h"
+	<stdio.h>
+	<math.h>
+	<algorithm>
+	<string>
+	<iostream>
+	<vector>
+
+1585853806 c:\users\liuwe\desktop\bcr\github_code\single-matrix-network\stdafx.h
+
+1585853806 c:\users\liuwe\desktop\bcr\github_code\single-matrix-network\network.h
+	<stdio.h>
+	<string>
+	<vector>
+
+1585853806 source:c:\users\liuwe\desktop\bcr\github_code\single-matrix-network\stdafx.cpp
+	"stdafx.h"
+
