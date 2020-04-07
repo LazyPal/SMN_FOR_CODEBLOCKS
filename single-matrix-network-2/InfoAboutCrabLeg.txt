@@ -1,0 +1,9 @@
+Crab leg position
+
+L0 L1
+L2 L3
+L4 L5
+L6 L7
+
+the gap between the legs on the same row are constant
+When moving, L0L1 move first, then L4L5, then L2L3, then L6L7
